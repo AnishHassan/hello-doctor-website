@@ -1,0 +1,33 @@
+.appinfo{
+    width: 100%;
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+     display : flex;
+     justify-content: space-between;
+}
+
+.appinfo-img{
+  margin-top: 100px;
+}
+
+
+.appinfo-content{
+    width: 40%;
+    margin-top: 170px;
+}
+
+.appinfo-content-logo{
+    margin-bottom: 20px;
+}
+
+.appinfo-content-detail{
+    margin-bottom: 20px;
+}
+
+.appinfo-content-applinks img{
+    margin-right: 20px;
+}
+

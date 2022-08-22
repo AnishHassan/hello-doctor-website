@@ -1,0 +1,41 @@
+
+.main-partners{
+  
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 80px;
+   
+}
+
+.heading{
+ display: flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 40px;
+margin-top: 80px;
+  
+
+}
+
+.partners{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 80px;
+   margin-left: 80px;
+}
+
+.partners img{
+   margin-right: 50px;
+   width: 10%;
+   height: 10%;
+}
+
+
+.side-design{
+    
+
+}
