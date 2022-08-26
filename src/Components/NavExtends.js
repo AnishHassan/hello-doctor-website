@@ -49,7 +49,7 @@ function NavExtends() {
                     <img src={timeicon} alt="call-icon"/>
                     </div>
                       <div className='info-content'>
-                          <p>Mon-Sat (9am -9pm)</p>
+                          <p>Mon-Sat (9am - 9pm)</p>
                           <p>Our Timings</p>
                       </div>
                    </div>

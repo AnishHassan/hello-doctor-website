@@ -14,8 +14,9 @@ import './Partnersinfo.css'
 function Partnersinfo() {
   return (
     <>
-     <h1 className='heading'>Our Partners</h1>
+     <h2 className='heading'>Our Partners</h2>
       <div className='main-partners'>
+           
            
             <div className='partners'>
                 <img  src={rehab} alt="rehability Uk logo"   />
@@ -24,11 +25,13 @@ function Partnersinfo() {
                 <img  src={askari} alt="rehability Uk logo" />
                 <img  src={alfala} alt="rehability Uk logo" />
                 <img  src={UOL} alt="rehability Uk logo" />
-              
+               
             </div>
+
             {/* <div className='side-design'>
                 <img src={side} alt="side design vector"/>
             </div> */}
+            
       </div>
     </>
   )
