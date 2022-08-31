@@ -1,0 +1,33 @@
+.mobile-app-extra-container{
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.mobile-app-extra-heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    opacity: 0.8;
+}
+
+.mobile-app-extra-heading span{
+    color: #77DF79;
+}
+
+
+.mobile-app-extra-txt{
+    margin-bottom: 40px;
+}
+
+
+.mobile-app-extra-applinks{
+    display: flex;
+    justify-content: center;
+}
+
+.mobile-app-extra-applinks img{
+    margin-right: 30px;
+}

@@ -49,20 +49,54 @@
     display: block;
     margin-top: 60px;
     
+
+
+}
+
+.elippse-section-1-img{
+    cursor: pointer;
 }
 
 
+
+.screen-section{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
 .screen-section img{
-    width : 323px;
-    height: 603px;
+    width : 299px;
+    height: 563px;
+    position: absolute;
 }
 
 .elippse-section-1-img-1 img{
     margin-left: 70px;
+    cursor: pointer;
 }
+
+/* .elippse-section-1-img-1-active{
+    border-radius: 2px solid ;
+} */
 
 
 .elippse-section-1-img-2 img{
     margin-left: -70px;
+    cursor: pointer;
 
+}
+
+
+
+.hideScreen {
+  
+    display: none;
+   
+   
+  }
+
+.showScreen {
+    display: block;
+    
 }

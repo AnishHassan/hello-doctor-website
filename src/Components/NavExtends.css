@@ -5,7 +5,7 @@
     width: 100%;
     max-width: 1130px;
     margin-left: 160px;
-    margin-top: 10px;
+    margin-top: 5px;
     
   }
   .update span{
@@ -19,7 +19,7 @@
     max-width : 323px;
     height: 36px;
     margin-left: 160px;
-    margin-top: 10px;
+    margin-top:  10px;
     background: #FFFFFF;
     display : flex;
     align-items : center;

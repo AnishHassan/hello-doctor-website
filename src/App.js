@@ -1,20 +1,23 @@
 import './App.css';
-import Navbar from './Components/Navbar';
 import { BrowserRouter as Router , Routes , Route } from 'react-router-dom';
 import Home from './Components/Pages/Home';
-import Footer from './Components/Footer/Footer';
+import Blog from './Components/Pages/Blog';
 
 function App() {
   return (
     <div className="App">
     <Router>
-    <Navbar />
+    
 
     <Routes>
-    <Route path="/" exact element={<Home/>} />        
+    <Route path="/" exact element={<Home/>} />
+
+
+    <Route path="/Blogs" exact element={<Blog/>} />        
+        
     </Routes>
 
-    <Footer/>
+    
     </Router>
     
     </div>

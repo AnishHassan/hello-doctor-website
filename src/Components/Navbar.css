@@ -16,8 +16,8 @@
   
   .navbar-container {
     display: flex;
-    justify-content: space-between;
-    height: 80px;
+    justify-content: space-betwee n;
+    height: 45px;
   }
   
   .container {
@@ -187,7 +187,7 @@
   .seperateL{
     width: 100%;
     margin-right: auto;
-    margin-top: 20px;
+    margin-top: 5px;
     background-color: rgb(232, 230, 230);
     opacity : 0.5;
     height: 5px;

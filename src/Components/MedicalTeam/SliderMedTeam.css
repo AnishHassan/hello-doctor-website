@@ -2,6 +2,7 @@
     max-width : 1120px;
     width : 100%;
     padding: 40px 0;
+   
 }
 
 
@@ -13,7 +14,9 @@
 .card{
     border-radius: 25px;
     background-color: #f5f5f5;
-    width : 320px
+    width : 320px;
+    margin-bottom: 40px;
+
 }
 
 .image-content,

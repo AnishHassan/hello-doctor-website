@@ -12,10 +12,11 @@ background: linear-gradient(300deg, rgba(42,238,129,1) 0%, rgba(252,254,251,1) 1
     justify-content: space-around;
 }
 
-.h3{
-    font-weight: 500;
+.section-logo h3{
+    width : 250px;
+    font-weight: 600;
+    opacity : 0.7;
 }
-
 .subscribe-newsletter{
     display: block;
 }
@@ -51,6 +52,27 @@ background: linear-gradient(300deg, rgba(76,175,120,1) 0%, rgba(42,238,129,1) 10
 
 .subscribe-newsletter button span{
     font-size: 10px;
+}
+
+.section-contact h3{
+    opacity: 0.6;
+    margin-bottom: 30px;
+}
+
+.section-links h3{
+    opacity: 0.6;
+    margin-bottom: 30px;
+
+}
+
+.section-links p{
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+
+.section-newsletter h3  {
+    opacity : 0.6;
+    margin-bottom: 30px;
 }
 
 .section-contact p span{
