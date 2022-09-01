@@ -76,15 +76,29 @@
     cursor: pointer;
 }
 
-/* .elippse-section-1-img-1-active{
-    border-radius: 2px solid ;
-} */
+.elippse-section-1-img-active img{
+    margin-right: 70px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 #00BA78, 0 6px 20px 0 #00BA78;
+    border-radius: 25px;
+    background-color: #00BA78;
+}
+
+
+.elippse-section-1-img-1-active img{
+    margin-left: 70px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 #00BA78, 0 6px 20px 0 #00BA78;
+    border-radius: 25px;
+    background-color: #00BA78;
+}
+
 
 
 .elippse-section-1-img-2 img{
     margin-left: -70px;
     cursor: pointer;
-
+    transition: ease-out 0.3s;
 }
 
 

@@ -32,7 +32,7 @@ function Possibilities() {
 
                 <div className='possibilities-container-content'>
                     <div  className='elippse-section-1'>
-                        <div onClick={()=>{changeScreen(1)}} className='elippse-section-1-img-1'>
+                        <div onClick={()=>{changeScreen(1)}}  className={'elippse-section-1-img-1'}>
                         <img src={ellipse} alt="ellipse" />
 
                         </div>

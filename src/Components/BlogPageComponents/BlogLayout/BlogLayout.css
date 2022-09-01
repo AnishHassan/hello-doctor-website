@@ -1,0 +1,27 @@
+.Blog-container{
+    width: 100%;
+    max-width: 1300px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+.Blog-heading h2{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 50px;
+    font-weight: 500;
+    width : 350px
+}
+
+.Blog-upper-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-contact{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}

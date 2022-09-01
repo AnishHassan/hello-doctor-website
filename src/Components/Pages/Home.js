@@ -14,8 +14,6 @@ import Services from '../Services/Services'
 function Home() {
   return (
     <>
-
-    <Navbar />
     
      <Appinfo/>
      <Partnersinfo/>
@@ -27,7 +25,6 @@ function Home() {
      <MobileAppExtra/>
      <BlogSection/>
 
-     <Footer/>
     </>
   )
 }
